@@ -2,14 +2,14 @@
 * [My Website](http://marinenko.rf.gd) <br>
 
 * [Shape Overlays](https://0x77portfolio.github.io/shape-overlays/) <br>
-*[Grid-Layout-with-Scrollable-Content-View](https://0x77portfolio.github.io/Grid-Layout-with-Scrollable-Content-View/) <br>
+* [Grid-Layout-with-Scrollable-Content-View](https://0x77portfolio.github.io/Grid-Layout-with-Scrollable-Content-View/) <br>
 * [FullscreenHoverLoopEffect](https://0x77portfolio.github.io/FullscreenHoverLoopEffect/) <br>
 * [PageFlipLayout](https://0x77portfolio.github.io/PageFlipLayout/) <br>
 * [GradientTopographyAnimation](https://0x77portfolio.github.io/GradientTopographyAnimation/) <br>
 * [OutdoorsTemplate](https://0x77portfolio.github.io/OutdoorsTemplate/) <br>
 
 ---
-* [Portfolio](.)
+* [Portfolio](#portfolio---misha-marinenko)
 
 * [My Github: @misha-marinenko-official](https://github.com/misha-marinenko-official)
 
